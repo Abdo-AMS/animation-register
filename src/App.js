@@ -23,7 +23,7 @@ function App() {
         currentForm === "Register" ? <Register onFormSwitch={toggleForm} /> : <Login onFormSwitch={toggleForm} />
       }
       
-      < Animation />
+      
       
       
     </div>
