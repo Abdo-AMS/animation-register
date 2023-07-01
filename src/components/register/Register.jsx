@@ -16,7 +16,7 @@ export default function Register () {
     }
 
      return(
-        <div >
+        <div className="div11">
         <img src={background} className='background'/>
         <h1>SignUp to make<br />
              your meal <br />
